@@ -13,4 +13,6 @@ API: https://jsonplaceholder.typicode.com/
 
 
  Similar in loop different in data
- 
+
+ Documentation:
+ https://react.dev/
