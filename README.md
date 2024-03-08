@@ -10,3 +10,7 @@ API: https://jsonplaceholder.typicode.com/
  - cd explore-core-concept-recap
  - npm install
  - npm run dev
+
+
+ Similar in loop different in data
+ 
